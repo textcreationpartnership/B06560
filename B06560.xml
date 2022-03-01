@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The down-ight [sic] vvooing of honest John &amp; Betty. To the tune of, Cold and raw. This may be printed, R.P.</title>
+            <author>E. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06560</idno>
+            <idno type="STC">Wing W16</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[81]</idno>
+            <idno type="EEBO-CITATION">99887108</idno>
+            <idno type="PROQUEST">ocm99887108</idno>
+            <idno type="VID">181831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181831)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[81])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The down-ight [sic] vvooing of honest John &amp; Betty. To the tune of, Cold and raw. This may be printed, R.P.</title>
+                  <author>E. W.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J[onah]. Deacon, at the Angel in Guiltspur-street.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: Well met my pritty Betty ..."</note>
+                  <note>Place, date of publication, and publisher's name from Wing.</note>
+                  <note>Wing CD-ROM, 1996 gives range of dates, 1685-1688.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Love poetry, English --  England --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-01</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181831:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>The Down-ight VVOOING of Honeſt JOHN &amp; BETTY.</head>
+            <opener>To the Tune of, <hi>Cold and Raw.</hi>
+            </opener>
+            <div type="permission_to_print">
+               <p>This may be Printed,</p>
+               <closer>
+                  <signed>R. P.</signed>
+               </closer>
+            </div>
+            <div type="body_of_ballad">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a man with staff and money purse</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a man and a woman</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>VVEll met my pritty <hi>Betty</hi>
+                  </l>
+                  <l>happy be our Meeting,</l>
+                  <l>I prethee on me take pitty,</l>
+                  <l>and thus he fell a Greeting:</l>
+                  <l>Thou art ſhe whom I love ſo dear,</l>
+                  <l>above all worldly Treaſure,</l>
+                  <l>There's no Love with mine can compare,</l>
+                  <l>I love thee beyond all meaſure.</l>
+               </lg>
+               <lg>
+                  <head>
+                     <hi>Bettys <hi>Reply to</hi> John.</hi>
+                  </head>
+                  <l>I wonder <hi>John,</hi> how it came about,</l>
+                  <l>that you ſhould love ſo dearly,</l>
+                  <l>I fear you do but jeer and flout,</l>
+                  <l>I prethee don't come near me;</l>
+                  <l>And don't ſtand prating at this rate,</l>
+                  <l>but I prethee now be going,</l>
+                  <l>Or with my Ladle i'le break thy Pate,</l>
+                  <l>for I like no deceitful Wooing.</l>
+               </lg>
+               <lg>
+                  <l>I prethee <hi>Betty</hi> be not Coy,</l>
+                  <l>but let's enjoy the Bleſſing,</l>
+                  <l>I'le tell thee what thouſt enjoy,</l>
+                  <l>of Goods I have poſſeſſing:</l>
+                  <l>I have got a Yow and Lamb</l>
+                  <l>with a Cow and Calf together,</l>
+                  <l>have that will bravely ſtand,</l>
+                  <l>will make thee a glad Mother,</l>
+               </lg>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a man, hat in hand, and a woman with fan</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>depiction of musicians playing on a balcony above people sitting at table, with more people standing in an adjoining room</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>I have a Cupboard and three Chairs,</l>
+                  <l>with Diſhes and a Ladle,</l>
+                  <l>Beſide a Barrel to hold good Beer,</l>
+                  <l>alſo a Nurſing Cradle:</l>
+                  <l>I have Spindles, Whirls and Reels,</l>
+                  <l>with Feather-Bed and Bedding,</l>
+                  <l>And a new Spinning-Wheel,</l>
+                  <l>which thou ſhalt have at our Wedding.</l>
+               </lg>
+               <lg>
+                  <l>I have a little Dog to Bark,</l>
+                  <l>if any come to fright thee,</l>
+                  <l>My Houſe is as ſafe as <hi>Noahs</hi> Ark,</l>
+                  <l>in which I will delight thee:</l>
+                  <l>The pritty Crickets they do ſing,</l>
+                  <l>whilſt I am in the Barn a Thraſhing,</l>
+                  <l>They'l be Pleaſing when thou doſt Spin,</l>
+                  <l>or Bake, Brew, or Waſhing.</l>
+               </lg>
+               <lg>
+                  <l>My Mother left me twenty hives of Bees</l>
+                  <l>which will yield good ſtore of Honey,</l>
+                  <l>We'l gather up all and none we'l leeſe,</l>
+                  <l>it will bring us good ſtore of Money:</l>
+                  <l>I have eight Pigs and a Sow,</l>
+                  <l>with Hens and Chickens plenty,</l>
+                  <l>I have beſide all this, I vow,</l>
+                  <l>two Brood-Geeſe and Goſſins twenty.</l>
+               </lg>
+               <lg>
+                  <l>I have got a gay Gold Ring,</l>
+                  <l>for my pritty <hi>Betty,</hi>
+                  </l>
+                  <l>And i'le pleaſe thee in every thing,</l>
+                  <l>then I prethee on me take pitty:</l>
+                  <l>A black Scarf ſpick and ſpan New,</l>
+                  <l>Gloves and Ribbons, neweſt Faſhion,</l>
+                  <l>If thou wilt have me tell me now,</l>
+                  <l>and don't put me into a paſſion.</l>
+               </lg>
+               <lg>
+                  <l>The Maid began of ſmile at this,</l>
+                  <l>and was pleas'd at his Fancy,</l>
+                  <l>The Bargain ſhe Seal<g ref="char:punc">▪</g>d with a Kiſs,</l>
+                  <l>and ſaid, <hi>John's</hi> the Man I ſancy</l>
+                  <l>Thou ſhalt be my hearts delight,</l>
+                  <l>and I will be thy Honey,</l>
+                  <l>We'l work together day and night,</l>
+                  <l>and I hope we ſhall ne'r want Money.</l>
+               </lg>
+               <lg>
+                  <l>The day appointed was with ſpeed,</l>
+                  <l>when they was to be Marry'd,</l>
+                  <l>Their Friends likewiſe did agree,</l>
+                  <l>that nothing ſhould be miſcarry'd:</l>
+                  <l>There was both Wine, Ale and Beer,</l>
+                  <l>all ſorts of Proviſion plenty,</l>
+                  <l>A Noiſe of Muſick their hearts to chear,</l>
+                  <l>Strawberries and Cream moſt dainty.</l>
+               </lg>
+               <lg>
+                  <l>Then they to Dancing went,</l>
+                  <l>each Lad then with their Laſſes,</l>
+                  <l>They kiſs'd each Laſs with their conſent,</l>
+                  <l>ſo the time away they paſſes:</l>
+                  <l>The Fidler ſung them a Merry Song,</l>
+                  <l>which cauſed much Laughter,</l>
+                  <l>And <hi>John</hi> began for to think long,</l>
+                  <l>for the Paſtime he ſhould have after.</l>
+               </lg>
+               <closer>
+                  <signed>
+                     <hi>By <hi>E. W.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for <hi>J. Deacon,</hi> at the <hi>Angel</hi> in <hi>Guiltſpur-Street.</hi>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
